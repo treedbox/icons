@@ -1,2 +1,2 @@
 # icons
-Icones in svg
+Icons in svg
